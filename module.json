@@ -1,30 +1,20 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "pf2e-gm-secrets",
+  "title": "PF2E GM Secrets",
+  "description": "Tool for managing Pathfinder2E Secret checks",
   "version": "This is auto replaced",
-  "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "SoldierC4",
+      "url": "https://github.com/SoldierC4",
+      "discord": "SoldierC4#2310"
     }
-  ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-    
   ],
   "esmodules": [
     "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
   ],
   "styles": [
     "styles/module.css"
@@ -41,10 +31,7 @@
   "download": "This is auto replaced",
   "license": "LICENSE",
   "readme": "README.md",
-  "media": [
-    {
-      "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
-    }
-  ]
+  "system": [
+      "pf2e"
+  ,
 }
