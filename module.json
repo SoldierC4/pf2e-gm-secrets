@@ -14,7 +14,7 @@
     }
   ],
   "esmodules": [
-    "scripts/module.js"
+    "scripts/gm-secrets.js"
   ],
   "styles": [
     "styles/module.css"
